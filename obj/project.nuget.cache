@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "96A3NolLi7W4c8bbDQwDj/0Kmw/Q/L8ni4b1QAXbh+5lUBkCXUy2fj4FLuZwq4m4TLu3qrOTJUm8q+mQd0aRow==",
+  "dgSpecHash": "Gl45m5lYQktHu0T07AN1ovP6DcZNZBY5EzESP9Rejyyzf2MVejzR0sm2GAoHGe27KA4hER/b3DDk33Yglnvxjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Week3\\Lab3\\CommunityApp\\CommunityApp.csproj",
+  "projectFilePath": "c:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Week3\\Lab3\\CommunityApp\\CommunityApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
